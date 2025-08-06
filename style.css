@@ -1,0 +1,33 @@
+body{
+    margin: 2%;
+    font-family: "Poppins", sans-serif;
+}
+.link-button{
+    text-decoration: none;
+    font-size: 20px; background-color: tomato; border-radius: 5px; color: white; padding: 10px; 20px
+}
+.fast-part{
+    background-image: url(header-bg.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.name-highlight{
+    font-size: 50px;
+    color: palevioletred;
+}
+.half-width{
+    width: 45%;
+    margin-left: 3%;
+    padding-left: 1%;
+    float: left;
+}
+.half-width img{
+    width: 100%;
+}
+.midel-part{
+    background-image: url(biography-bg.png);
+     height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
