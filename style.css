@@ -4,13 +4,16 @@ body{
 }
 .link-button{
     text-decoration: none;
-    font-size: 20px; background-color: tomato; border-radius: 5px; color: white; padding: 10px; 20px
+    font-size: 20px; background-color: tomato; border-radius: 5px; color: white; 
+    text-align:center ;
+    padding: 10px;
 }
 .fast-part{
     background-image: url(header-bg.png);
     height: 100vh;
     background-size: cover;
     background-position: center;
+    
 }
 .name-highlight{
     font-size: 50px;
@@ -23,6 +26,7 @@ body{
     float: left;
 }
 .half-width img{
+    height: 50%;
     width: 100%;
 }
 .midel-part{
@@ -30,4 +34,21 @@ body{
      height: 100vh;
     background-size: cover;
     background-position: center;
+}
+.text{
+    padding-top: 25%;
+}
+.work-1{
+    width: 30%;
+}
+.last{
+    padding-top: 2%;
+    background-image: url(latest-work-bg.png);
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+}
+.gmail{
+    font-size: 20px;
+    color: brown;
 }
